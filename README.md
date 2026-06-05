@@ -88,10 +88,10 @@ SELECT fn_label_status('MENUNGGU');
 Contoh hasil:
 
 ```text
-MENUNGGU  → Menunggu Giliran
-DIPANGGIL → Sedang Dilayani
-SELESAI   → Pelayanan Selesai
-BATAL     → Antrian Dibatalkan
+MENUNGGU  
+DIPANGGIL 
+SELESAI  
+BATAL     
 ```
 
 ---
@@ -195,8 +195,8 @@ Contoh hasil:
 
 ```text
 Tanggal      No Antrian   Pasien           Dokter            Status
-2026-06-05   A001         Budi Santoso     dr. Andi Putra    Menunggu
-2026-06-05   A002         Siti Rahma       dr. Andi Putra    Selesai
+2026-06-05   A001         Reggy            dr. Rama          Menunggu
+2026-06-05   A002         Rani             dr. Rama          Selesai
 ```
 
 ---
@@ -214,8 +214,8 @@ Contoh hasil:
 
 ```text
 Dokter            Total Kunjungan    Total Pendapatan
-dr. Andi Putra    25                 Rp 7.500.000
-dr. Maya Sari     18                 Rp 5.400.000
+dr. Rama           25                 Rp 7.500.000
+dr. Rama           18                 Rp 5.400.000
 ```
 
 View digunakan untuk mempermudah proses pembuatan laporan tanpa perlu menuliskan query yang kompleks secara berulang.
