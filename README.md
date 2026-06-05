@@ -11,3 +11,9 @@ Proyek ini merupakan sistem informasi manajemen klinik berbasis web yang dibangu
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e4da4a41-8463-4d4c-8bbd-28b9a63d9d17" />
 
+# 📌 Detail Konsep
+Pada SIMAK (Sistem Informasi Manajemen Klinik Terpadu), sebagian besar proses pengolahan data tidak hanya dilakukan pada sisi aplikasi, tetapi juga diimplementasikan langsung pada tingkat database. Pendekatan ini digunakan agar setiap proses yang berkaitan dengan data pasien, dokter, antrian, rekam medis, dan layanan klinik dapat berjalan secara lebih konsisten, terkontrol, dan efisien. Dengan memanfaatkan Function, Trigger, View, dan Transaction, sistem mampu menjalankan berbagai proses secara otomatis, seperti perhitungan data, pencatatan aktivitas, validasi informasi, hingga penyajian laporan. Selain itu, penerapan konsep tersebut juga membantu menjaga integritas data ketika sistem digunakan oleh banyak pengguna secara bersamaan. Implementasi fitur-fitur database ini menjadi bagian penting dalam mendukung keandalan sistem serta memenuhi kebutuhan pengelolaan data yang lebih terstruktur dan mudah dipelihara.
+
+<img width="826" height="442" alt="image" src="https://github.com/user-attachments/assets/76aad774-8d1f-461b-b8f7-8f023a7dc22f" />
+
+<img width="898" height="568" alt="image" src="https://github.com/user-attachments/assets/b5ea2f95-adc6-4ee7-9136-1cc28b47531d" />
