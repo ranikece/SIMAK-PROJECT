@@ -497,5 +497,6 @@ Keterangan:
 
 Dengan implementasi ini, backup database SIMAK dapat berjalan otomatis setiap hari. Hasil backup tetap tersimpan di folder `storage/backups`, sehingga sistem memiliki cadangan data secara rutin.
 
-<img width="1919" height="1129" alt="image" src="https://github.com/user-attachments/assets/01223f13-26cb-4342-a915-672d95e83112" />
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/0c1d7132-b564-4f6f-87cf-2bd9284f8cf8" />
+
 
