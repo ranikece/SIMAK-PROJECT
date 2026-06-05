@@ -19,7 +19,6 @@ Pada SIMAK (Sistem Informasi Manajemen Klinik Terpadu), sebagian besar proses pe
 <img width="898" height="568" alt="image" src="https://github.com/user-attachments/assets/b5ea2f95-adc6-4ee7-9136-1cc28b47531d" />
 
 Beberapa Function, Transaction, View dan Trigger yang Digunakan
-## 📌 Beberapa Function, Transaction, View dan Trigger yang Digunakan
 
 ### 1. Function `hitung_usia(p_tanggal_lahir)`
 
